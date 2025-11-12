@@ -22,7 +22,7 @@ export const siteConfig = {
     {
       name: "Book'd",
       description:
-        "UM? is a software where you can get regularly updated; Unreleased songs, Music not on spotify, Underground Music & More!",
+        "Discover, review, and share your favorite books with a community of readers. Track your reading journey like never before.",
       link: "https://bookd.aidanbray.com",
     },
   ],
