@@ -19,6 +19,12 @@ export const siteConfig = {
       link: "https://UM.aidanbray.com",
       skills: ["Python", "Github", "HTML", "CSS", "JS"],
     },
+    {
+      name: "Book'd",
+      description:
+        "UM? is a software where you can get regularly updated; Unreleased songs, Music not on spotify, Underground Music & More!",
+      link: "https://bookd.aidanbray.com",
+    },
   ],
   experience: [
     {
