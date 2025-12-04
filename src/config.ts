@@ -6,12 +6,19 @@ export const siteConfig = {
   social: {
     email: "help@aidanbray.com",
     twitter: "https://x.com/a1qan",
-    github: "https://github.com/a1qan",
+    github: "https://github.com/ABDProjects",
   },
   aboutMe:
     "I am a 14 year old Graphics and Web/Software Designer! I do small projects for fun and for myself, using my couple years of experience to make the best i can.",
   skills: ["HTML", "CSS", "Photoshop", "Figma", "FL Studio", "JS"],
   projects: [
+    {
+      name: "2ManyTabs",
+      description:
+        "2ManyTabs is a browser extension designed to make web browsing faster, easier, and more organized. It enhances your start page by adding a quick shortcuts feature & a multi-search engine.",
+      link: "https://2MT.aidanbray.com",
+      skills: ["HTML", "CSS", "JS"],
+    },
     {
       name: "UM?",
       description:
