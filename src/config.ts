@@ -17,7 +17,7 @@ export const siteConfig = {
       description:
         "2Many is a gathering of services that will help with your everyday life & workflow. Minimalistic and fast.",
       link: "https://2many.org",
-      skills: ["HTML", "CSS", "JS", "Github" "More..."],
+      skills: ["HTML", "CSS", "JS", "Github", "More..."],
     },
     {
       name: "Photography",
