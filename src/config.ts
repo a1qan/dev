@@ -10,7 +10,7 @@ export const siteConfig = {
   },
   aboutMe:
     "I am a 15 year old Graphics and Web/Software Designer! I do small projects with the help of vibecoding (with modifications) for fun and for myself, using my couple years of experience to make the best i can.",
-  skills: ["HTML", "CSS", "Photoshop", "Figma", "FL Studio", "JS"],
+  skills: ["Photography", "Coding", "Web Design"],
   projects: [
     {
       name: "2Many",
@@ -20,17 +20,11 @@ export const siteConfig = {
       skills: ["HTML", "CSS", "JS", "Github" "More..."],
     },
     {
-      name: "UM?",
+      name: "Photography",
       description:
-        "UM? is a software where you can get regularly updated; Unreleased songs, Music not on spotify, Underground Music & More!",
-      link: "https://UM.aidanbray.com",
-      skills: ["Python", "Github", "HTML", "CSS", "JS"],
-    },
-    {
-      name: "Book'd",
-      description:
-        "Discover, review, and share your favorite books with a community of readers. Track your reading journey like never before.",
-      link: "https://bookd.aidanbray.com",
+        "This is where you can see previous photos & purchase them.",
+      link: "https://photography.aidanbray.com",
+      skills: ["HTML", "CSS", "JS"],
     },
   ],
   experience: [
